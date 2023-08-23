@@ -23,5 +23,3 @@ pages={1435-1439}
 # License(s)
 
 Copyright (c) 2022 Haris Bin Zia
-
-Code licensed under the MIT License: http://opensource.org/licenses/MIT.
